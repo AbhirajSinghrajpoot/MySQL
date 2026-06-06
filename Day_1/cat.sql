@@ -9,7 +9,7 @@ CREATE TABLE billie (
 );
 
 insert into billie(name, age)
-values('Draco', 11);
+values('Draco', 11),('Romio', 5), ('Shaan', 7), ('Gail', 2);
 
 select * from billie;
 
